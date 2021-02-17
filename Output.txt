@@ -1,0 +1,2 @@
+Directory: c:\users\dan's pc\appdata\local\programs\python\python38-32\lib\site-packages
+Python: ""C:\Users\Dan's PC\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.8
